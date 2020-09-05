@@ -1,0 +1,5 @@
+Enter price
+Enter interest
+Price: 100
+Interest: 1.1
+Total: 110

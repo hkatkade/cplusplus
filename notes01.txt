@@ -1,0 +1,5 @@
+To compile a file use 
+g++ -std=c++0x example.cpp -o example_program
+
+std - standard character output device 
+
